@@ -7,5 +7,5 @@ pip install ics
 ```
 
 ```
-main.py
+python main.py
 ```
