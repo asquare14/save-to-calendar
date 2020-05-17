@@ -10,5 +10,5 @@ for event in my_events:
     c.events.add(e)
     c.events
 
-with open('my.ics', 'w') as my_file:
+with open('schedule.ics', 'w') as my_file:
     my_file.writelines(c)
